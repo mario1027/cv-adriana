@@ -73,7 +73,7 @@ El proyecto está estructurado de manera clara:
 
 **Adriana Cristina Montero Hurtado**
 - 📧 Email: contacto@adrianamontero.com
-- 📱 WhatsApp: +57 301 248 5766
+- 📱 WhatsApp: +57 301 649 7766
 - 📍 Ubicación: Barranquilla, Atlántico, Colombia
 
 ## 📄 Licencia

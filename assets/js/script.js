@@ -190,8 +190,8 @@ if (form && formBtn && formInputs.length) {
     const email = form.querySelector('[name="email"]').value;
     const message = form.querySelector('[name="message"]').value;
     
-    // Número de WhatsApp (el mismo del sidebar: +57 301 248 5766)
-    const phoneNumber = "573012485766";
+    // Número de WhatsApp
+    const phoneNumber = "573016497766";
     
     // Crear el mensaje formateado
     const whatsappMessage = `*Nuevo mensaje de contacto*%0A%0A*Nombre:* ${encodeURIComponent(fullname)}%0A*Email:* ${encodeURIComponent(email)}%0A*Mensaje:*%0A${encodeURIComponent(message)}`;
